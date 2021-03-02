@@ -1,0 +1,1 @@
+A second “revision”, notably larger and more accurate to the physical PSP scale, as well as featuring a hole near the top of the shell exposing the serial controller’s USB mini in. 

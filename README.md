@@ -1,2 +1,2 @@
-# totally-a-press-kit
+# totally-not-a-press-kit
 Graphics, Photos, Videos, etc. for OP-DITTO. All open licensed.

@@ -1,0 +1,1 @@
+The very first print. Was notably smaller than anticipated (guess that’s what you get for trusting someone else’s measurements and stl lol). Adjusted in the second print.
